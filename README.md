@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Sanket Sultan</h1>
+<h1 align="left">Hi 👋, I'm Sanket</h1>
 <p align="left">I'm a Cloud DevOps Engineer with a passion for AI and cloud systems. I specialize in automating tasks, boosting efficiency, and making smarter decisions through the integration of AI. I'm constantly exploring new ways to seamlessly incorporate AI into our setup, ensuring smooth operations and delivering top-notch results.</p>
 
 <h3 align="left">Connect with me:</h3>
