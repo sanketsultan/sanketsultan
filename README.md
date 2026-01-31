@@ -1,5 +1,19 @@
 <h1 align="left">Hi 👋, I'm Sanket</h1>
-<p align="left">I'm a Cloud DevOps Engineer with a passion for AI and cloud systems. I specialize in automating tasks, boosting efficiency, and making smarter decisions through the integration of AI. I'm constantly exploring new ways to seamlessly incorporate AI into our setup, ensuring smooth operations and delivering top-notch results.</p>
+<p align="left">Seasoned SRE & DevOps Engineer with growing expertise in designing and operating reliable, scalable, and secure cloud-native platforms across public cloud and hybrid environments.
+
+I specialize in and share practical insights about:
+
+- Site Reliability Engineering & Production Operations
+- Public Cloud (AWS, Azure, On-Prem)
+- Kubernetes, Docker & CNCF ecosystem
+- Infrastructure as Code (Terraform, CloudFormation, Helm)
+- CI/CD pipelines & GitOps workflows
+- Observability & Monitoring (Prometheus, Grafana, ELK, Datadog)
+- Automation & Platform Engineering (Python, Bash)
+- Linux Systems & Troubleshooting
+-Incident Management, Reliability & Resilience Engineering
+
+Always focused on improving system reliability, reducing downtime, and helping teams operate production systems with confidence.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
