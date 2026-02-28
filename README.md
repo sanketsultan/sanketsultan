@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Sanket</h1>
+<h1 align="left">Hi 👋, I'm Sanket Sultan</h1>
 <p align="left">Seasoned SRE & DevOps Engineer with growing expertise in designing and operating reliable, scalable, and secure cloud-native platforms across public cloud and hybrid environments.
 
 I specialize in and share practical insights about:
