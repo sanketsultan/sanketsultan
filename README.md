@@ -1,45 +1,35 @@
 <h1 align="left">Hi, I'm Sanket Sultan</h1>
 <p align="left">
-# Hey, I'm Sanket
 
-Platform Engineer specializing in cloud-native infrastructure, Kubernetes, and site reliability engineering. Five years building production systems at scale.
+Platform engineer. Build infrastructure that lets developers ship faster.
 
-Currently Senior Platform Engineer at Swisscom in Rotterdam.
+## Impact
 
-## Core Skills
+**Reduced incident detection time 80%** - Built Prometheus/Grafana observability for 20 microservices at Swisscom. Alert noise down 60%. MTTD from 30min to 6min. Developers catch issues before customers notice.
 
-**Site Reliability Engineering**  
-Production observability with Prometheus, Grafana, OpenTelemetry. SLO/SLI design, error budgets, incident response. MTTD from 30 to 6 minutes. Built monitoring for 20+ microservices.
+**Eliminated noisy neighbor problems** - Implemented distributed resource quotas across multi-tenant K8s platform. Pod restart rate dropped 45%. Platform stable for all 20 services.
 
-**Cloud-Native Platforms**  
-Multi-tenant Kubernetes on Azure (AKS) and AWS (EKS). Namespace isolation, resource governance, autoscaling. Reduced pod restart rates 45% through distributed quotas and proper limits.
+**Accelerated deployment velocity 10x** - Migrated 8 services from VMs to AKS. Deploy time from 2 hours to 12 minutes. Unblocked teams shipping multiple times per day.
 
-**Infrastructure as Code**  
-Terraform and GitOps pipelines (ArgoCD, GitLab CI). Self-service infrastructure modules (VPC, EKS, RDS). Blue-green deployments, OPA policy validation, zero-downtime releases.
+**Drove infrastructure standardization** - Built shared Terraform modules (VPC, EKS, RDS) with secure defaults. Three teams voluntarily adopted. Reduced provisioning errors, improved security posture.
 
-**DevOps & Automation**  
-CI/CD pipelines, containerization, secrets management (Vault). Led VM-to-Kubernetes migration - deployment time from 2 hours to 12 minutes. Automated incident remediation patterns.
+**Addressed systemic reliability issues** - Analyzed 12 incidents, identified missing retry logic in 70%. Built exponential backoff library adopted by 8 services. Fixed root cause, not symptoms.
 
-## Tech Stack
+**Achieved zero-downtime database migration** - PostgreSQL to Cloud SQL via logical replication. DNS cutover when lag <1 second. No customer impact.
 
-**Platforms:** Kubernetes, Docker, Helm, Knative (learning), Istio concepts  
-**Cloud:** Azure, AWS, GCP (learning)  
-**Observability:** Prometheus, Grafana, OpenTelemetry, Datadog, CloudWatch  
-**IaC/GitOps:** Terraform, Terragrunt, ArgoCD, Flux (learning), GitHub Actions  
-**Languages:** Python, Go, Bash  
-**SRE:** Chaos engineering, capacity planning, distributed systems
+## Current projects
 
-## Featured Project
+[intelligent-SRE-agent](https://github.com/sanketsultan/intelligent-sre-agent) - Automated K8s monitoring and healing. Detects anomalies, analyzes patterns, auto-remediates. Exploring safe automation boundaries in production.
 
-**[intelligent-SRE-agent](https://github.com/sanketsultan/intelligent-sre-agent)** - AI-powered Kubernetes monitoring with automated healing. Detects anomalies, analyzes root causes, auto-remediates common issues. FastAPI, MCP, Prometheus, Claude API.
+## Tech
 
-## Background
+Kubernetes (AKS, EKS) · Prometheus · Grafana · Terraform · GitOps (ArgoCD) · Azure · AWS · Python · Go
 
-MSc Cloud Computing · CKA · AWS Solutions Architect · Terraform Associate
+CKA · AWS Solutions Architect · Terraform Associate
 
-Previously: Amdocs (AKS migration, intelligent alerting), T-Systems (enterprise AWS)
+5 years production infrastructure. Rotterdam.
 
-Rotterdam, Netherlands · [LinkedIn](https://nl.linkedin.com/in/sanketsultan) · sanketsultanwork@gmail.com</p>
+sanketsultanwork@gmail.com · [linkedin](https://nl.linkedin.com/in/sanketsultan)</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
