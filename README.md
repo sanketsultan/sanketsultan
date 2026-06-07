@@ -79,9 +79,22 @@ SLO/SLI design · Error budgets · Chaos engineering · Incident response · Vau
 
 ## Current Project
 
-### [intelligent-sre-agent](https://github.com/sanketsultan/intelligent-sre-agent)
+[![intelligent-sre-agent](https://github-readme-stats.vercel.app/api/pin/?username=sanketsultan&repo=intelligent-sre-agent&theme=github_dark&hide_border=true)](https://github.com/sanketsultan/intelligent-sre-agent)
 
 AI-powered Kubernetes monitoring with automated healing. Detects anomalies, analyzes root causes, and auto-remediates common failure modes. The interesting problem: defining where safe automation ends and human judgment begins in production infrastructure.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sanketsultan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketsultan&theme=github-dark-blue&hide_border=true" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketsultan&theme=github-compact&hide_border=true&area=true" width="100%" />
+
+</div>
 
 ---
 
