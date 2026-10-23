@@ -22,8 +22,8 @@
 ```yaml
 name:     Sanket Sultan
 role:     Senior Platform Engineer · SRE
-location: Rotterdam, Netherlands
-visa:     HSM -- open to relocation
+location: Netherlands
+visa:     HSM
 
 what I do:
   - Run multi-tenant Kubernetes platforms across AWS and Azure at scale
